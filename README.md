@@ -1,5 +1,6 @@
 # Programming-Experience
-# This is an introduction to the programming experience. It is divided into 5 modules. The catalog is as follows:
+This is an introduction to the programming experience.   
+It is divided into 5 modules. The catalog is as follows:
   
 (1) Programming Language Module  
 1.1 High-level Programming Language (C)  
