@@ -1,11 +1,11 @@
 # Programming-Experience
 # This is an introduction to my programming experience. It is divided into 5 modules. The catalog is as follows:
 
-(1) Programming Language Module
+(1) Programming Language Module  
 1.1 High-level Programming Language (C)  
-1.2 Data Structures
-1.3 Object-oriented Programming (C++)
-1.4 Java Technology and Its Applications
+1.2 Data Structures  
+1.3 Object-oriented Programming (C++)  
+1.4 Java Technology and Its Applications  
 
 (2) Software Engineering Module
 2.1 Operating Systems
